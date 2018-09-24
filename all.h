@@ -36,6 +36,12 @@ class card_base
 
 
 
+
+
+
+
+
+
 class hero
 {
     
